@@ -28,3 +28,9 @@ A Flutter app for reporting and tracking campus complaints.
 
 ## Author
 K. Srivallika
+
+## Future Enhancements
+- Admin login to update complaint status
+- Photo upload with a complaint
+- Cloud database (Firebase) for saving complaints
+- Push notifications when a complaint is resolved
